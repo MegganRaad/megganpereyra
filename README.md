@@ -1,6 +1,6 @@
-- 👋 Hi, I’m meggan pereyra also known as @embersunn
-- 👀 I’m currently interested in Ethereum Blockchain Development
-- 🌱 I’m also currently learning Data structures & Algorithms
+- 👋 Hi, I’m Meggan Raad
+- 👀 I’m currently a Computer Science student at FIU
+- 🌱 proficient in languages: Python3 & Java
 - 📫 How to reach me: embersunn.dev@gmail.com
 
 <!---
