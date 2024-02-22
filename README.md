@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Meggan Raad
-- 👀 I’m currently a Computer Science student at FIU
-- 🌱 proficient in languages: Python3 & Java
-- 📫 How to reach me: embersunn.dev@gmail.com
+Meggan Raad is a dynamic software engineer with a Bachelor's degree in Computer Science from Florida International University. Proficient in Python3, Java, and C, she has a strong background in Software and Security Engineering. Meggan is known for her engaging Python tutorials on YouTube, where she simplifies complex programming concepts. Her experience includes roles as Vice President of IAARC, an international robotics club, and contributing member of UPE and the Google Developers Club.
 
-<!---
-"The past, like the future, is indefinite and exists only as a spectrum of possibilities."
-  - Stephen Hawking
---->
+As a former Contracted Developer Advocate for Nucamp Coding Bootcamp, Autonomous.ai, Syntax Technologies, and other tech companies, Meggan has been instrumental in promoting technology and education. She is also a freelance software developer, combining her technical expertise with a passion for teaching and mentoring. Meggan is a dedicated advocate for Women in Technology and minorities in tech, often speaking at hackathons and tech events. Her career is marked by a commitment to inclusivity and diversity in the tech industry.
